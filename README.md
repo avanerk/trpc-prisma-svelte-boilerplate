@@ -1,6 +1,14 @@
 # tRPC, Prisma, Svelte boilerplate
 
 Simple boilerplate that I use for my own projects.
+Note: This boilerplate in it's current state is pretty barebones, user authentication and authorization would be nice to add to this boilerplate.
+Feel free to contribute to this project.
+
+Currently working on:
+
+- User authentication and authorization
+- DB seeder
+- Route generator scripts
 
 ## Getting started
 
