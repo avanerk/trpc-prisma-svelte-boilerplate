@@ -34,3 +34,7 @@ Copy the `.env.example` to `.env` and set your DB configuration accordingly
 run `npx prisma db push`
 
 And you're ready to go 😎
+
+## Contributing
+
+Feel free to contribute to this project.
